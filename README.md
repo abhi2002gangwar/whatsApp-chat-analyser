@@ -1,3 +1,3 @@
 # whatsApp-chat-analyser
-For demo visit followint link:
+For demo visit following link:
 https://analysewhatsappchat.herokuapp.com/
